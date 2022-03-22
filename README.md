@@ -1,5 +1,6 @@
 # Harmony Quest
 
+** Documentation and readme files are not complete yet **
 Story based gameplay with text based interaction
 
 
@@ -11,4 +12,4 @@ Story based gameplay with text based interaction
   - Random
 
 
-- It is advisable to play this game on PyCharm as the GUI has not been tested on other platforms.
+
