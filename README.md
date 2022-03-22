@@ -1,6 +1,6 @@
 # Harmony Quest
 
-** Documentation and readme files are not complete yet **
+**Note : Documentation and readme files are not complete yet**
 Story based gameplay with text based interaction
 
 
